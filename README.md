@@ -2,7 +2,7 @@
 
 Thrifto enebles AI based price discovery for NFTs
 
-The Meachine learning model will predict the appraisal price for NFTs based on the traits like Backgroung, clothes, eyes, nose, earring, fur, hat, mouth and headhear etc.
+The Meachine learning model will predict the appraisal price for NFTs based on the traits of respective NFT collections.
 
 _Work in progress (#WAGMI)_
 
