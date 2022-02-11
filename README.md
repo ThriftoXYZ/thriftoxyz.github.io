@@ -2,10 +2,6 @@
 
 Thrifto enebles AI based price discovery for NFTs
 
-# Header 1
-## Header 2
-### Header 3
-
 - Bulleted
 - List
 
