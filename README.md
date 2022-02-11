@@ -2,23 +2,10 @@
 
 Thrifto enebles AI based price discovery for NFTs
 
-- Bulleted
-- List
+The Meachine learning model will predict the appraisal price for NFTs based on the traits like Backgroung, clothes, eyes, nose, earring, fur, hat, mouth and headhear etc.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ThriftoXYZ/thriftoxyz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_Work in progress (#WAGMI)_
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Follow us on [Twitter](https://twitter.com/ThriftoXYZ), join us on [Discord](https://discord.gg/cstaWYDS) to discuss about the idea and contribute.
